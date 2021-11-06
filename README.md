@@ -3,6 +3,9 @@
 A 3d software rasterizer engine written in C following 42-guidelines.
 A raycast method is used for 3d effect.
 
+The project was done by me (Vesa Eilo) and Okko Hakola as a part of the 42 curriculum.
+I focused mainly on rendering which contained triangle rasterization and texture and normal mapping, and mesh handling. I also created the improvized "ray casting" projection method that allowed us to use triangle geometry without the use of projection matrices.
+
 Features:
 
 - Raycasted 3D
